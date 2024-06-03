@@ -1,16 +1,22 @@
-## Hi there 👋
+  ### vitor
+  
+  -estudante
 
-<!--
-**vitor338/vitor338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  -📘estudante do ensino medio
+  
+  -🎵musica 
+  
+  -🥊graduaçao nivel 3
+  
+  -🥇atleta
+  
+  -💃aulas de dança
+  
+  -⚓gastão videgal-sp,brasil
+  
+  -“Insanidade é fazer a mesma coisa várias vezes e esperar resultados diferentes”
+  
+  ![descrição do GIF]
+  
+  
+  
